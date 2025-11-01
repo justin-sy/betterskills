@@ -105,5 +105,3 @@ class linked_list:
             node = head
             head = next
         return node
-
-linkedListClassDiagram.png
