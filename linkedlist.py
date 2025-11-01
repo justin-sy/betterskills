@@ -105,12 +105,5 @@ class linked_list:
             node = head
             head = next
         return node
-    
-    
-
-
-Kin Feng <kin.feng@gmail.com>
-Thu, Oct 30, 9:14 PM (2 days ago)
-to Justin
 
 linkedListClassDiagram.png
