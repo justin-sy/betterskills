@@ -1,4 +1,4 @@
 # Markdown 
 
 ## Reference
-[cheat sheet] (https://www.markdownguide.org/cheat-sheet/)
+[cheat sheet](https://www.markdownguide.org/cheat-sheet/)
