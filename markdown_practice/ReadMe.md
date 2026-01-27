@@ -60,4 +60,4 @@ To include a table, use vertical bars to seperate columns and different lines to
 | Data 2 | Data 3|
 
 ---
-Markdown Cheat Sheat Used: [Link]
+Markdown Cheat Sheat Used: [Link](<https://www.markdownguide.org/cheat-sheet/>)
